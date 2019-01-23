@@ -15,4 +15,6 @@ The afternoon session will be an education session focused on helping undergradu
 - What should evolutionary biologists be taught about computation?
 - What are the dominant technologies for serving course content to biologists, and how are they suceeding? How are they failing?
 
-Registration will be $85 for for faculty and professional attendees registering in conjunction with the Evolution meetings ($100 for stand-alone registration). Registration will be $30 for graduate students and postdocs in conjunction with the Evolution meetings ($50 for stand-alone registration).
+Registration will be $85 for for faculty and professional attendees registering in conjunction with the Evolution meetings. Registration will be $30 for graduate students and postdocs in conjunction with the Evolution meetings.
+
+Register [here](link will someday be undead).
