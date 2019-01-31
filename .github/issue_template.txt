@@ -1,0 +1,28 @@
+**If you are submitting a piece of software for the Software Bazaar during the poster session,**
+June 23, please open an issue with the following information:
+
+- Issue Title: The name of the software
+- Issue Body:
+	- Who will be present at the Software Bazaar?
+	- Brief description of what the software does. What biological analyses does it perform?
+	Is it platform-specific? 
+	
+If you intend to present software in the Software Bazaar, please file an issue containing
+this information by June 18.
+
+
+**If you are submitting a talk for the education lightning talks** during the afternoon session
+Wednesday June 26, please open an issue with the following information:
+
+- Issue Title: Name of Presenter
+- Issue Body: 
+	- What type of class are you teaching (i.e., Data science for biologists, Advanced programming
+	in R, Bioinformatics)? 
+	- What type of institution (i.e. PUI, R1, SLAC)? 
+	- What type of learners do you have (i.e., upper division undergrads, grads, freshmen)?
+	- How are you serving the course (i.e., R Studio server, local installs on participant computers)?
+	
+The above information may be used to group talks in the presentation order. A member of the iEvoBio
+organizing committee will be in touch about how to submit your talk. 
+
+All contributions are expected to follow the [Code of Conduct](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/Conduct.md).
