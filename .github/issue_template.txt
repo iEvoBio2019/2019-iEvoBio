@@ -4,6 +4,7 @@ June 23, please open an issue with the following information:
 - Issue Title: The name of the software
 - Issue Body:
 	- Who will be present at the Software Bazaar?
+	- A link to an code repository, including an open source license.
 	- Brief description of what the software does. What biological analyses does it perform?
 	Is it platform-specific? 
 	
