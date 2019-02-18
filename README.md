@@ -19,14 +19,18 @@ The afternoon session will be an education session focused on helping undergradu
 
 Registration will be $85 for for faculty and professional attendees registering in conjunction with the Evolution meetings. Registration will be $30 for graduate students and postdocs in conjunction with the Evolution meetings.
 
-Registration will be handled via the main conference registration site.
+Registration will be handled via the main conference [registration site](https://www.evolutionmeetings.org/registration.html).
 
-### How to submit a proposal for a lightning talk or software bazaar?
+### How to submit a proposal for a lightning talk or software bazaar
 
-We are going coordinate this pre-conference discussion through GitHub. GitHub is a website that can be used to share source code. It also provides a really nice forum-like discussion tool through "issues". We ask anyone who would like to present to the Software Bazaar or in
+We are going coordinate this pre-conference discussion through GitHub. GitHub is a website that can be used to share source code. It also provides a nice forum-like discussion tool through "issues". We ask anyone who would like to present to the Software Bazaar or in
 lightning talk, to [open an issue](https://github.com/iEvoBio2019/2019-iEvoBio/issues/new). The issue is prepopulated with a template for each of the possible proposal types. Fill in the appropriate inputs for your submission. Each iEvoBio participant can submit one lighting talk and one Software bazaar proposal. 
 
 We encourage all users to discuss these topics, find like-minded people to work with at iEvoBio or make contact with software developers for whom you have questions. The discussions on GitHub are subject to our [Code of Conduct](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/Conduct.md).
+
+### Student Travel
+
+We will have some funds to remunerate students to extend their stay at the meeting for this event. Keep an eye on here for an announcement of how to request funds.
 
 
 ### What is GitHub and why do a need an account?
