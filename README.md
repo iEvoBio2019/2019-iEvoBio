@@ -1,6 +1,6 @@
 # iEvoBio
 
-This year's event will occur after the meeting on June 26 at the Omni Hotel. Watch this space for calls for participation!
+This year's event will occur after the meeting on June 26, from 9 am to 5 pm at the Omni Hotel. Watch this space for calls for participation!
 
 ## News: 
 
@@ -22,6 +22,9 @@ The afternoon session will be an education session focused on helping undergradu
 - What are evolutionary biologists being taught about computation?
 - What should evolutionary biologists be taught about computation?
 - What are the dominant technologies for serving course content to biologists, and how are they suceeding? How are they failing?
+
+The tentative afternoon schedule, with birds of a feather captains is [here](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/TentativePMSchedule.md). If you would like to give a lightning talk on the computational biology course you teach, use the [issue tracker](https://github.com/iEvoBio2019/2019-iEvoBio/issues/new) to fill out the talk template.
+
 
 Registration will be $85 for for faculty and professional attendees registering in conjunction with the Evolution meetings. Registration will be $30 for graduate students and postdocs in conjunction with the Evolution meetings.
 
