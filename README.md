@@ -2,6 +2,12 @@
 
 This year's event will occur after the meeting on June 26 at the Omni Hotel. Watch this space for calls for participation!
 
+## News: 
+
+Travel awards for early career researchers is [live](https://goo.gl/forms/x5GOSt3q0Fy997843). This travel award is open for students, postdocs and pre-tenure faculty. Preference will be given for students and postdocs.
+
+## The Meeting
+
 This year's theme is "Enabling the next generation of computational biologists." We will have two sessions, morning and afternoon. The morning session will have a round of 12-minute talks from computational evolutionary biologists in various careers (R1 faculty, primarily undergraduate institution faculty, government). They will speak briefly about their research and how it is enabled by computation, and how they balance computational work with the outputs they need to produce in their role. This will be followed by a panel discussion of pre-selected and audience questions about careers in computational evolutionary biology. We will aim to answer the following questions: 
 
 - How have you balanced software development or computation with the outputs you need to be successful in your career?
