@@ -3,8 +3,9 @@
 This year's event will occur after the meeting on June 26, from 9 am to 5 pm at the Omni Hotel. Watch this space for calls for participation!
 
 ## News: 
+- Instructions for demonstrating software in the [Software Bazaar](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/software_bazaar.md) have been updated.
 
-Travel awards for early career researchers is [live](https://goo.gl/forms/x5GOSt3q0Fy997843). This travel award is open for students, postdocs and pre-tenure faculty. Preference will be given for students and postdocs.
+- The travel award form for early career researchers is [live](https://goo.gl/forms/x5GOSt3q0Fy997843). This travel award is open for students, postdocs and pre-tenure faculty. Preference will be given for students and postdocs.
 
 ## The Meeting
 
@@ -32,14 +33,13 @@ Registration will be handled via the main conference [registration site](https:/
 
 ### How to submit a proposal for a lightning talk or software bazaar
 
-We are going coordinate this pre-conference discussion through GitHub. GitHub is a website that can be used to share source code. It also provides a nice forum-like discussion tool through "issues". We ask anyone who would like to present to the Software Bazaar or in
-lightning talk, to [open an issue](https://github.com/iEvoBio2019/2019-iEvoBio/issues/new). The issue is prepopulated with a template for each of the possible proposal types. Fill in the appropriate inputs for your submission. Each iEvoBio participant can submit one lighting talk and one Software bazaar proposal. 
+We are going coordinate this pre-conference discussion through GitHub. GitHub is a website that can be used to share source code. It also provides a nice forum-like discussion tool through "issues". We ask anyone who would like to present to the [Software Bazaar](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/software_bazaar.md) or lightning talk, to [open an issue](https://github.com/iEvoBio2019/2019-iEvoBio/issues/new). The issue is prepopulated with a template for each of the possible proposal types. Fill in the appropriate inputs for your submission. Each iEvoBio participant can submit one lighting talk and one Software bazaar proposal. 
 
 We encourage all users to discuss these topics, find like-minded people to work with at iEvoBio or make contact with software developers for whom you have questions. The discussions on GitHub are subject to our [Code of Conduct](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/Conduct.md).
 
 ### Student Travel
 
-We will have some funds to remunerate students to extend their stay at the meeting for this event. Keep an eye on here for an announcement of how to request funds.
+We will have some funds to remunerate students to extend their stay at the meeting for this event. The form to apply for funds is [here](https://goo.gl/forms/x5GOSt3q0Fy997843).
 
 
 ### What is GitHub and why do a need an account?
