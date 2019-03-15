@@ -2,14 +2,17 @@
 
 This year's event will occur after the meeting on June 26, from 9 am to 5 pm at the Omni Hotel. Watch this space for calls for participation!
 
+## In Brief
+
 ## News: 
-- Instructions for demonstrating software in the [Software Bazaar](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/software_bazaar.md) have been updated.
+
+- The [morning session schedule](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/TentativeAMSchedule.md), [afternoon session schedule](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/TentativePMSchedule.md), and instructions for demonstrating software in the [Software Bazaar](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/software_bazaar.md) have been updated.
 
 - The travel award form for early career researchers is [live](https://goo.gl/forms/x5GOSt3q0Fy997843). This travel award is open for students, postdocs and pre-tenure faculty. Preference will be given for students and postdocs.
 
 ## The Meeting
 
-This year's theme is "Enabling the next generation of computational biologists." We will have two sessions, morning and afternoon. The morning session will have a round of 12-minute talks from computational evolutionary biologists in various careers (R1 faculty, primarily undergraduate institution faculty, government). They will speak briefly about their research and how it is enabled by computation, and how they balance computational work with the outputs they need to produce in their role. This will be followed by a panel discussion of pre-selected and audience questions about careers in computational evolutionary biology. We will aim to answer the following questions: 
+This year's theme is "Enabling the next generation of computational biologists." We will have two sessions, morning and afternoon. [The morning session](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/TentativeAMSchedule.md) will have a round of 12-minute talks from computational evolutionary biologists in various careers (R1 faculty, primarily undergraduate institution faculty, government). They will speak briefly about their research and how it is enabled by computation, and how they balance computational work with the outputs they need to produce in their role. This will be followed by a panel discussion of pre-selected and audience questions about careers in computational evolutionary biology. We will aim to answer the following questions: 
 
 - How have you balanced software development or computation with the outputs you need to be successful in your career?
 - How does your position reward, or not reward, software work?
@@ -17,6 +20,7 @@ This year's theme is "Enabling the next generation of computational biologists."
 - What are the special challenges for evolutionary biologists who want to have a career like yours?
 - What funding sources have been helpful on your career path?
 
+More information on the morning session can be found on the [morning schedule](https://github.com/iEvoBio2019/2019-iEvoBio/blob/master/TentativeAMSchedule.md).
 
 The afternoon session will be an education session focused on helping undergraduate and graduate students learn to effectively use scientific computation. This session will begin with 10-minute contributed talks from the community discussing delivering computational coursework. See below if you would like to contribute a talk on courses or workshops that you lead. We will follow this with a Birds of a Feather session aimed at getting instructors serving similar student groups together to discuss syllabi, technical challenges, and assessment. We will aim to answer the following questions:
 
