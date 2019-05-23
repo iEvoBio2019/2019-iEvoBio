@@ -10,5 +10,6 @@ funding, research, and teaching look like for them.
 - Luay Nakhleh - Department of Computer Science,  Rice University.
 - C. Brandon Ogbunu - Ecology and Evolutionary Biology, Brown University
 - Stephanie Spielman - Department of Biological Sciences, Rowan University
+- Mallory Choudoir - Indigo Ag
 
 10:45 - Noon: Panel discussion - Audience and prepared questions. 
